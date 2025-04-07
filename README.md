@@ -9,6 +9,7 @@
 ✅ Score counter to track progress  
 
 ## 📸 Screenshot 
+![Game Preview](./screenshot.png.png)
 
  
 
