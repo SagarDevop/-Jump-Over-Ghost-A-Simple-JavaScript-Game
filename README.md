@@ -24,7 +24,7 @@
    git clone https://github.com/SagarDevop/jump-over-ghost.git
 
 🌐 Live Demo
-Live Demo Here (http://127.0.0.1:5500/g.html)
+Live Demo Here (https://jump-over-ghost-a-simple-javascript-game.onrender.com)
 
 🛠 Technologies Used
 HTML – Game structure
